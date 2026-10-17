@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/maltewillmes/maltewillmes.r-universe.dev
 	branch = HEAD
+[submodule "IsoFishR"]
+	path = IsoFishR
+	url = https://github.com/MalteWillmes/IsoFishR
+	branch = v2-dev
